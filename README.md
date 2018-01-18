@@ -10,3 +10,5 @@ R, SAS, Jump Fitness, Shopping
 Google Calendar, Black Friday
 
 ## Hey Jess!
+
+## I love the emoji!
